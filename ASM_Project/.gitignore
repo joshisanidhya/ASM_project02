@@ -1,0 +1,10 @@
+*.part
+.venv/
+*.csv
+__pycache__/
+.pytest_cache/
+outputs/
+data/*/*
+!data/*/.gitkeep
+
+Lyft\ tree.txt
